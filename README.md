@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Full Stack Development**.
 - 💼 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React, Node.js, and Python**.
-- 📫 How to reach me: **httls//x.com/dhruv_vrma**.
+- 📫 How to reach me: **x.com/dhruv_vrma**.
 - ⚡ Fun fact: I love **playing chess and solving puzzles**.
 
 ## GitHub Stats
@@ -47,6 +47,6 @@
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/student-og)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](                    buymeacoffee.com/dhruv_verma                )
 
 Thank you for visiting my profile! Have a great day! 😊
