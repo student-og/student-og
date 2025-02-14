@@ -47,6 +47,6 @@
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/dhruv_verma)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dhruv_verma)
 
 Thank you for visiting my profile! Have a great day! 😊
