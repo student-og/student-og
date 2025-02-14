@@ -1,4 +1,4 @@
-# Hi there, I'm student-og! 👋
+# Hi there, I'm Dhruv-Verma! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=student-og&color=blue)
 
